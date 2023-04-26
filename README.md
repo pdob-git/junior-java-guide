@@ -73,3 +73,6 @@ materiały.
 - [Wrocławskie Sparingi Informatyczne](https://www.youtube.com/@wrocawskiesparingiinformat9221/videos)
 - [Kurs Java od podstaw](https://kursjava.com/spis-tresci/)
 
+### Test
+
+Zmiana testowa
